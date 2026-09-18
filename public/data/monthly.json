@@ -1,0 +1,380 @@
+{
+  "EVENTS": [
+    {
+      "id": "event_7ans_2026",
+      "name": "Méga-célébration des 7 ans La fête de la Méga-Évolution",
+      "image": "monthly/event_7ans.png",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__daily_battle",
+      "name": "Méga-célébration des 7 ans Aide pour l'entraînement aux combats quotidiens",
+      "image": "monthly/event_dailybattle.png",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__tour_7ans",
+      "name": "Méga-célébration des 7 ans Tour Anniversaire",
+      "image": "monthly/event_tour7ans.png",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__ferox_florizarre",
+      "name": "Phase I Florizarre Méga-Ferox",
+      "image": "monthly/event_ferox1.png",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__ferox_flagadoss",
+      "name": "Phase II Flagadoss Méga-Ferox",
+      "image": "monthly/event_ferox2.png",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__ferox_tyranocif",
+      "name": "Phase III Tyranocif Méga-Ferox",
+      "image": "monthly/event_ferox3.png",
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__cynthia_summer",
+      "name": "30 ans de Pokémon : Souvenirs de Pokémon Masters Que le meilleur gagne",
+      "image": "monthly/event_cynthiasummer.png",
+      "startDate": "2026-09-01T08:00:00",
+      "endDate": "2026-12-31T07:59:00"
+    },
+    {
+      "id": "event__cake_role",
+      "name": "Méga-célébration des 7 ans Défi Roulé Rôle",
+      "image": "monthly/event_cakerole.png",
+      "startDate": "2026-09-07T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__nc_sinnoh",
+      "name": "Les Néo-Maîtres Temps et espace véritables",
+      "image": "monthly/event_ncsinnoh.png",
+      "startDate": "2026-09-12T08:00:00",
+      "endDate": "2026-10-07T07:59:00"
+    },
+    {
+      "id": "event__cynthia_givrali",
+      "name": "Célébrations après la méga-célébration des 7 ans Missions Cynthia et Givrali !",
+      "image": "monthly/event_cynthiagivrali.png",
+      "startDate": "2026-09-12T08:00:00",
+      "endDate": "2026-10-07T07:59:00"
+    },
+    {
+      "id": "event__damage",
+      "name": "Célébrations après la méga-célébration des 7 ans Classement par dégâts : combat féroce",
+      "image": "monthly/event_damage.png",
+      "startDate": "2026-09-14T08:00:00",
+      "endDate": "2026-09-23T07:59:00"
+    },
+    {
+      "id": "event__galaxy",
+      "name": "La Team Galaxie débarque ! Défi quotidien",
+      "image": "monthly/event_galaxy.png",
+      "startDate": "2026-09-16T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "event__hisui",
+      "name": "Évènement secondaire Ensemble en terre inconnue",
+      "image": "monthly/event_hisui.png",
+      "startDate": "2026-09-18T08:00:00",
+      "endDate": "2026-09-30T07:59:00"
+    },
+    {
+      "id": "jpm",
+      "name": "Évènement spécial mensuel Journée Pokémon Masters",
+      "image": "monthly/jpm.png",
+      "startDate": "2026-09-25T08:00:00",
+      "endDate": "2026-09-26T07:59:00"
+    }
+  ],
+  "BANNERS": [
+    {
+      "id": "banner_serena",
+      "name": "Invocation Serena Anniversaire",
+      "image": "monthly/banner_serena.png",
+      "duos": [
+        {
+          "name": "Serena (Anniversaire 2026) & Amphinobi",
+          "image": "icons/Serena_0658_2_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/serena-anniversaire-2026-amphinobi.html"
+        },
+        {
+          "name": "Lucia & Clamiral",
+          "image": "icons/Akari_0503_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/lucia-clamiral-forme-de-hisui.html"
+        },
+        {
+          "name": "Pepper & Dogrino",
+          "image": "icons/Arven_0943_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/pepper-dogrino.html"
+        }
+      ],
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-10-07T07:59:00",
+      "isPaid": false,
+      "dailyRate": 1,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_blue",
+      "name": "Invocation Blue Anniversaire",
+      "image": "monthly/banner_blue.png",
+      "duos": [
+        {
+          "name": "Blue (Anniversaire 2026) & Dracolosse",
+          "image": "icons/Blue_0149_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/blue-anniversaire-2026-dracolosse.html"
+        },
+        {
+          "name": "Carolina (Anniversaire 2022) & Boréas",
+          "image": "icons/Skyla_0641_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/carolina-anniversaire-2022-boreas-forme-totemique.html"
+        },
+        {
+          "name": "Lysandre & Yveltal",
+          "image": "icons/Lysandre_0717_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/lysandre-yveltal.html"
+        }
+      ],
+      "startDate": "2026-08-30T08:00:00",
+      "endDate": "2026-10-07T07:59:00",
+      "isPaid": false,
+      "dailyRate": 1,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_dawn",
+      "name": "Invocation Aurore Néo-Maître",
+      "image": "monthly/banner_dawn.png",
+      "duos": [
+        {
+          "name": "Aurore (Néo-Maître) & Palkia",
+          "image": "icons/Dawn_0484_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/aurore-neo-maitre-palkia-forme-originelle.html"
+        },
+        {
+          "name": "Brice (Ultime) & Latios",
+          "image": "icons/Brendan_0381_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/brice-look-ultime-latios.html"
+        },
+        {
+          "name": "Roy (Anniversaire 2022) & Libégon",
+          "image": "icons/Raihan_0330_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/roy-anniversaire-2022-libegon.html"
+        }
+      ],
+      "startDate": "2026-09-12T08:00:00",
+      "endDate": "2026-10-25T07:59:00",
+      "isPaid": false,
+      "dailyRate": 1,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_lucas",
+      "name": "Invocation Louka Néo-Maître",
+      "image": "monthly/banner_lucas.png",
+      "duos": [
+        {
+          "name": "Louka (Néo-Maître) & Dialga",
+          "image": "icons/Lucas_0483_2_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/louka-neo-maitre-dialga-forme-originelle.html"
+        },
+        {
+          "name": "Tarak (Alternatif) & Lanssorien",
+          "image": "icons/Leon_0887_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/tarak-alternatif-lanssorien.html"
+        },
+        {
+          "name": "Tarak (Ultime) & Éthernatos",
+          "image": "icons/Leon_0890_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/tarak-look-ultime-ethernatos.html"
+        }
+      ],
+      "startDate": "2026-09-14T08:00:00",
+      "endDate": "2026-10-25T07:59:00",
+      "isPaid": false,
+      "dailyRate": 1,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_red",
+      "name": "Invocation Red Anniversaire",
+      "image": "monthly/banner_red.png",
+      "duos": [
+        {
+          "name": "Red (Anniversaire 2025) & Dracaufeu",
+          "image": "icons/Red_0006_2_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/red-anniversaire-2025-dracaufeu.html"
+        },
+        {
+          "name": "Brice (Ultime) & Latios",
+          "image": "icons/Brendan_0381_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/brice-look-ultime-latios.html"
+        },
+        {
+          "name": "Tarak (Ultime) & Éthernatos",
+          "image": "icons/Leon_0890_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/tarak-look-ultime-ethernatos.html"
+        }
+      ],
+      "startDate": "2026-09-19T08:00:00",
+      "endDate": "2026-10-03T07:59:00",
+      "isPaid": false,
+      "dailyRate": 1,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_irida",
+      "name": "Invocation Nacchara Anniversaire",
+      "image": "monthly/banner_irida.png",
+      "duos": [
+        {
+          "name": "Nacchara (Anniversaire 2025) & Typhlosion",
+          "image": "icons/Irida_0157_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/nacchara-anniversaire-2025-typhlosion-forme-de-hisui.html"
+        },
+        {
+          "name": "Strykna (Ultime) & Salarsen",
+          "image": "icons/Roxie_0849_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/strykna-look-ultime-salarsen-forme-aigue.html"
+        },
+        {
+          "name": "Erio & Vrombotor",
+          "image": "icons/Atticus_0966_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/erio-vrombotor.html"
+        }
+      ],
+      "startDate": "2026-09-20T08:00:00",
+      "endDate": "2026-10-03T07:59:00",
+      "isPaid": false,
+      "dailyRate": 1,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_gloria",
+      "name": "Invocation Gloria Anniversaire",
+      "image": "monthly/banner_gloria.png",
+      "duos": [
+        {
+          "name": "Gloria (Anniversaire 2025) & Pyrobut",
+          "image": "icons/Gloria_0815_2_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/gloria-anniversaire-2025-pyrobut.html"
+        },
+        {
+          "name": "Selene (Ultra) & Zéroïd",
+          "image": "icons/Selene_0793_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/selene-ultra-zeroid.html"
+        },
+        {
+          "name": "Blue (Classique) & Ptéra",
+          "image": "icons/Blue_0142_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/blue-classique-ptera.html"
+        }
+      ],
+      "startDate": "2026-09-21T08:00:00",
+      "endDate": "2026-10-03T07:59:00",
+      "isPaid": false,
+      "dailyRate": 1,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_select_mf",
+      "name": "Ticket Select MasterFest",
+      "image": "monthly/banner_selectmf.png",
+      "duos": [
+        {
+          "name": "Kassis et Pomdorochi",
+          "image": "icons/Kieran_1019_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/kassis-pomdorochi.html"
+        },
+        {
+          "name": "Selene (Néo-Maître) et Necrozma (Ailes de l'Aurore)",
+          "image": "icons/Selene_0800_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/selene-neo-maitre-necrozma-ailes-de-l-aurore.html"
+        },
+        {
+          "name": "Elio (Néo-Maître) et Necrozma (Crinière du Couchant)",
+          "image": "icons/Elio_0800_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/elio-neo-maitre-necrozma-criniere-du-couchant.html"
+        },
+        {
+          "name": "Flora (Néo-Maître) et Primo-Kyogre",
+          "image": "icons/May_0382_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/flora-neo-maitre-primo-kyogre.html"
+        },
+        {
+          "name": "Brice (Néo-Maître) et Primo-Groudon",
+          "image": "icons/Brendan_0383_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/brice-neo-maitre-primo-groudon.html"
+        }
+      ],
+      "startDate": "2026-08-28T08:00:00",
+      "endDate": "2026-10-07T07:59:00",
+      "isPaid": false,
+      "dailyRate": null,
+      "hasSteps": false
+    },
+    {
+      "id": "banner_galaxy",
+      "name": "Invocation par Paliers Team Galaxie",
+      "image": "monthly/banner_galaxy.png",
+      "duos": [
+        {
+          "name": "Hélio & Dimoret",
+          "image": "icons/Cyrus_0461_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/helio-dimoret.html"
+        },
+        {
+          "name": "Mars & Chaffreux",
+          "image": "icons/Mars_0432_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/mars-chaffreux.html"
+        },
+        {
+          "name": "Jupiter & Moufflair",
+          "image": "icons/Jupiter_0435_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/jupiter-moufflair.html"
+        },
+        {
+          "name": "Saturne & Coatox",
+          "image": "icons/Saturn_0454_5.png",
+          "kitLink": "https://www.pokekalos.fr/jeux/mobile/pokemonmasters/duos/saturne-coatox.html"
+        }
+      ],
+      "startDate": "2026-09-16T08:00:00",
+      "endDate": "2026-09-30T07:59:00",
+      "isPaid": true,
+      "dailyRate": null,
+      "hasSteps": true,
+      "steps": [
+        { "step": 1, "cout": 1000, "present": "Rien" },
+        { "step": 2, "cout": 1500, "present": "Rien" },
+        { "step": 3, "cout": 2000, "present": "Rien" },
+        { "step": 4, "cout": 2500, "present": "Rien" },
+        { "step": 5, "cout": 3000, "present": "Ticket Team Galaxy x1" }
+      ]
+    },
+    {
+      "id": "banner_jpm",
+      "name": "Portails Journée Pokémon Masters",
+      "image": "monthly/banner_jpm.png",
+      "duos": [],
+      "startDate": "2026-09-25T08:00:00",
+      "endDate": "2026-09-26T07:59:00",
+      "isPaid": true,
+      "dailyRate": null,
+      "hasSteps": false
+    }
+  ]
+}
